@@ -49,7 +49,6 @@ with step2:
     # machine learning models 
     lr = LogisticRegression()
     rf = RandomForestClassifier()
-    mlp = MLPClassifier(hidden_layer_sizes = 10, max_iter=50)
     
     models = [lr, rf, mlp]
     
