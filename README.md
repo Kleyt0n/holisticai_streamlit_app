@@ -5,3 +5,4 @@ In this repo we will build a bias measure and mitigation dashboard app in Python
 - [HolisticAI Library to Measure and Mitigate Bias](https://www.holisticai.com/open-source)
 - [Measuring and Mitigating Bias: Introducing Holistic AI's Open-Source Library](https://www.holisticai.com/blog/measuring-and-mitigating-bias-using-holistic-ai-library)
  
+![](img_app.png)

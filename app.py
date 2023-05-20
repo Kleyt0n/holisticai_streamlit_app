@@ -50,7 +50,7 @@ with step2:
     lr = LogisticRegression()
     rf = RandomForestClassifier()
     
-    models = [lr, rf, mlp]
+    models = [lr, rf]
     
     # model selector
     model = st.selectbox("Select a Model", models)
